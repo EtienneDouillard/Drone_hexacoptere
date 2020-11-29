@@ -2,9 +2,9 @@
 
 ## Présentation
 
-Ce projet de drone à été commencé en Septembre 2018 par un groupe d'étudiant ingénieur de l'isen nantes. Il évolue depuis avec les différents étudiants motivés pour l'améliorer.
+Ce projet de drone a été commencé en Septembre 2018 par un groupe d'étudiant ingénieur de l'ISEN nantes. Il évolue depuis avec les différents étudiants motivés pour l'améliorer.
 
-Le but de ce projet était de crée un drone qui puisse servir de base a d'autres projets étudiant. Il correspond donc en termes de taille et d'autonomie à un compromis entre nos attentes, notre budjet et le temps que nous y accordons.
+Le but de ce projet était de créer un drone qui puisse servir de base à d'autres projets étudiant. Il correspond donc en termes de taille et d'autonomie à un compromis entre nos attentes, notre budget et le temps que nous y accordons.
 
 Vous pourez retrouver dans les dossiers les assemblages et pièces concue sur SolidWorks 2017. Vous y retrouverez aussi les références des pièces utilisées ainsi que les liens pour la configuration du logiciel et le cablage de l'ensemble.
 
@@ -30,13 +30,13 @@ Vous pourez retrouver dans les dossiers les assemblages et pièces concue sur So
 
 ## Bloc Moteur
 
-Pour le trio ESC, moteur, hélice nous avons choisis un ensemble commercialisé par T-MOTOR nous permetant d'avoir des données fiables sur la consomation, le rendement et la force de portance produite.
+Pour le trio ESC, moteur, hélice, nous avons choisis un ensemble commercialisé par T-MOTOR nous permetant d'avoir des données fiables sur la consomation, le rendement et la force de portance produite.
 
 Voir le tableau descriptif des données moteur dans le dossier moteur.
 
 ## Electronique de bord
 
-Nous utilisons une raspberry pi et un module navio 2 comme controleur de bord. Ce n'est pas l'option la plus économe en énergie et en poid mais cela nous permet une très grande modularité. Nous pouvonsajouter une très large gamme d'options.
+Nous utilisons une raspberry pi et un module navio 2 comme controleur de bord. Ce n'est pas l'option la plus économe en énergie et en poid mais cela nous permet une très grande modularité. Nous pouvons ajouter une très large gamme d'options.
 
 ### Raspberry pi
 
@@ -57,19 +57,19 @@ Elle est quipé de multiples capteurs et ports d'extantion pour les amélioratio
 
 Voir le cablage des moteurs avec leurs sens de rotation et leurs numéro de sortie dans les images.
 
-### Voltmètre et ampèremetre
+### Voltmètre
 
 Permet un retour en direct de la charge de la batterie sur la télecomande.
 
 ## Radiocommande
 
-Nous avons opter pour une télécomande milieu / bas de gamme pour le budget et car nos exigences de porté ne sont pas très grande. **obligation de voler à vue**
+Nous avons opté pour une télécomande milieu / bas de gamme pour le budget et car nos exigences de porté ne sont pas très grande. **obligation de voler à vue**
 
 Les impératifs que nous avons concernent la sorties PPM qui est le seul moyen de communiquer avec la navio 2. Cela regroupe les 10 canaux sur un seul fil de donnée.
 
 ## Sponsors
 
-**Merci à nos sponsors :**
+**Merci à nos sponsors pour leurs soutien**
 
 [hynoxelis](https://www.hynoxelis.com/)
 
