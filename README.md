@@ -30,7 +30,7 @@ Vous pourez retrouver dans les dossiers les assemblages et pièces concue sur So
 
 ## Bloc Moteur
 
-Pour le trio ESC, moteur, hélice nous avons choisis un ensemble de chez TMOTOR nous permetant d'avoir des données fiables sur la consomation, le rendement et la force de portance produite.
+Pour le trio ESC, moteur, hélice nous avons choisis un ensemble commercialisé par T-MOTOR nous permetant d'avoir des données fiables sur la consomation, le rendement et la force de portance produite.
 
 Voir le tableau descriptif des données moteur dans le dossier moteur.
 
@@ -42,7 +42,7 @@ Nous utilisons une raspberry pi et un module navio 2 comme controleur de bord. C
 
 Flashé avec raspbian, nous utilisons ardupilot comme logiciel de vol. La modularité et la facilité d'instalation étant notre priorité. Nous pouvons passer sur ROS pour une adaptabilité supérieur.
 
-[simplonline](https://ardupilot.org/copter/index.html)
+[documentation ardupilot](https://ardupilot.org/copter/index.html)
 
 
 Pour le moment le raspberry se connecte à un partage de connexion préconfiguré. Il faudrait configurer le raspberry pour qu'il crée son propre réseau et que l'ordinateur ou le smartphone qui le commande se connecte dessus. La première solution a été choisis pour faire des mises à jours facilement.
@@ -51,8 +51,9 @@ Pour le moment le raspberry se connecte à un partage de connexion préconfigur�
 
 Elle est quipé de multiples capteurs et ports d'extantion pour les améliorations futur.
 
-[simplonline](https://docs.emlid.com/navio2/)
-[simplonline](https://github.com/emlid/emlid-docs/tree/master/docs/autopilots/navio2)
+[documentation navio 2](https://docs.emlid.com/navio2/)
+
+[documentation navio 2 github](https://github.com/emlid/emlid-docs/tree/master/docs/autopilots/navio2)
 
 Voir le cablage des moteurs avec leurs sens de rotation et leurs numéro de sortie dans les images.
 
@@ -62,18 +63,21 @@ Permet un retour en direct de la charge de la batterie sur la télecomande.
 
 ## Radiocommande
 
-Nous avons opter pour une télécomande milieu / bas de gamme pour le budget et car nos exigences de porté ne sont pas très grande. _obligation de voler à vue_
+Nous avons opter pour une télécomande milieu / bas de gamme pour le budget et car nos exigences de porté ne sont pas très grande. **obligation de voler à vue**
 
 Les impératifs que nous avons concernent la sorties PPM qui est le seul moyen de communiquer avec la navio 2. Cela regroupe les 10 canaux sur un seul fil de donnée.
 
 ## Sponsors
 
-_Merci à nos sponsors :_
+**Merci à nos sponsors :**
 
-[simplonline](https://www.hynoxelis.com/)
-[simplonline](https://www.axandus.fr/)
-[simplonline](https://www.kinematiq.net/)
-[simplonline](https://www.mptruck.fr/)
+[hynoxelis](https://www.hynoxelis.com/)
+
+[axandus](https://www.axandus.fr/)
+
+[kinematiq](https://www.kinematiq.net/)
+
+[mptruck](https://www.mptruck.fr/)
 
 
 
