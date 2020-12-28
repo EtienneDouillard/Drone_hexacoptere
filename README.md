@@ -8,7 +8,7 @@ Le but de ce projet était de créer un drone qui puisse servir de base à d'aut
 
 Vous pourez retrouver dans les dossiers les assemblages et pièces concue sur SolidWorks 2017. Vous y retrouverez aussi les références des pièces utilisées ainsi que les liens pour la configuration du logiciel et le cablage de l'ensemble.
 
-![https://github.com/iRobotEam/Drone_hexacoptere/blob/master/images/IMG_3299.JPEG?raw=true]
+![alt text](https://github.com/iRobotEam/Drone_hexacoptere/blob/master/images/IMG_3299.JPEG?raw=true)
 
 ## Composants et pièces
 
